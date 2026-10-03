@@ -1,4 +1,4 @@
-# 🎓 Trabajo Práctico N° 4: Gestión de Recursos e Interbloqueos (Deadlocks)
+# 🎓 Trabajo Práctico N° 4: Gestión de Recursos e Interbloqueos(Deadlocks)
 ## Cátedra: Teoría de Sistemas Operativos (TSO) — Ciclo Lectivo 2026
 ### Universidad Nacional de Jujuy (UNJu) — Facultad de Ingeniería
 
